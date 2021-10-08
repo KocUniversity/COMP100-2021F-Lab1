@@ -1,4 +1,4 @@
-# Practical 1: Shell
+m# Practical 1: Shell
 
 ## Goals
 * Practice how to create, copy, move, navigate directories and files with `cd, ls, cp, mkdir`
@@ -132,7 +132,7 @@ The shell's terminal is like a chat between you and the computer. You say someth
 Note: Make sure you are in the `~/COMP100-2021F-Lab1` directory before proceeding.
 
 - Look at the format of the file `alara.txt`.
-- Use the `>` operator to insert your details into the file `<your-first-name>.txt` you created in the previous question.
+- Use the `>` operator to insert your details into the file `<your-first-name>.txt` you created in the previous 
 - If this doesn't work, use the *append* operator `>>` instead of `>`.
 - Did you notice how the `>>` operator appends output in a new line while `>` replaces everything in the file?
 

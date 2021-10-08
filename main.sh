@@ -11,9 +11,12 @@ rm ids.txt
 
 
 # Command for Q1
-
+touch quiz.sh
+echo '#!/bin/sh' >> quiz.sh
 # Command for Q2
-
+chmod 777 quiz.sh
 # Command for Q3
-
+echo 'cat profiles2021/batu.txt' >> quiz.sh
 # Command for Q4
+cp profiles2020/* profiles2021
+

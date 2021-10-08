@@ -1,4 +1,4 @@
-# Branching and Iteration
++9999999999-----# Branching and Iteration
 Please start solving the following excercises in the `main.py` file.
 In some questions, there is code provided, you need to copy that part to the `main.py` file.
 
@@ -10,7 +10,10 @@ p1 = random.randint(0,10)
 p2 = random.randint(0,10)
 
 if p1 > p2:
-print("p1 is greater than p2")
+  print("p1 is greater than p2")
+else:
+  print("p2 is greater or equal than p1")  
+  
 ```
 
 This is ok but less readable: 
@@ -48,7 +51,7 @@ We have all the tools to implement a Rock, Paper Scissors game. Use nested `if..
 p1 = input("Select Rock(R), Paper(P) or Scissors(S) for player 1")
 p2 = input("Select Rock(R), Paper(P) or Scissors(S) for player 2")
 
-# Enter your code here
+# Enter your code here 
 ```
 
 ## Q5: Input Check
