@@ -1,4 +1,4 @@
-+9999999999-----# Branching and Iteration
+# Branching and Iteration
 Please start solving the following excercises in the `main.py` file.
 In some questions, there is code provided, you need to copy that part to the `main.py` file.
 
